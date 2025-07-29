@@ -1,0 +1,12 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "ba6d61627d84c99f51053b84d40f8a1f4535545f3159e594b3e48c72d4e8ddb1"
+build_start_time: [1753815681, 792283000]
+build_end_time: [1753815682, 880285000]
+inputs:
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/AppIntent.swift": [1753808917, 887819729]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeAttributes.swift": [1753810009, 401067505]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeLiveActivity.swift": [1753814762, 738112550]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeWidget.swift": [1753809365, 142812286]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeWidgetControl.swift": [1753809674, 110173348]
+  ? "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1753815240, 213740620]

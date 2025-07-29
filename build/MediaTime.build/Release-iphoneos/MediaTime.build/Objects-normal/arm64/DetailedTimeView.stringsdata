@@ -1,0 +1,104 @@
+{
+  "source": "/Users/bricedickerson/XCode/MediaTime/MediaTime/DetailedTimeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Time Analysis",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time Period",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Period",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sessions",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time Distribution - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total Time",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 285
+        }
+      },
+      {
+        "comment": "",
+        "key": "Balance",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 296
+        }
+      },
+      {
+        "comment": "",
+        "key": "Creating",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Consuming",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "No data for this %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 315
+        }
+      }
+    ]
+  },
+  "version": 1
+}

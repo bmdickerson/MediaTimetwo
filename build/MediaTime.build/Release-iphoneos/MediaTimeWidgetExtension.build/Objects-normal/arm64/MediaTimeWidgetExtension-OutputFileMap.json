@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetExtension-master.swiftconstvalues",
+    "dependencies" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetExtension-master.d",
+    "diagnostics" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetExtension-master.dia",
+    "emit-module-dependencies" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetExtension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetExtension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetExtension-master.swiftdeps"
+  },
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/AppIntent.swift" : {
+    "index-unit-output-path" : "/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/AppIntent.o",
+    "llvm-bc" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/AppIntent.bc",
+    "object" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/AppIntent.o"
+  },
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeAttributes.swift" : {
+    "index-unit-output-path" : "/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeAttributes.o",
+    "llvm-bc" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeAttributes.bc",
+    "object" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeAttributes.o"
+  },
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeLiveActivity.swift" : {
+    "index-unit-output-path" : "/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeLiveActivity.o",
+    "llvm-bc" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeLiveActivity.bc",
+    "object" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeLiveActivity.o"
+  },
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeWidget.swift" : {
+    "index-unit-output-path" : "/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidget.o",
+    "llvm-bc" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidget.bc",
+    "object" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidget.o"
+  },
+  "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeWidgetControl.swift" : {
+    "index-unit-output-path" : "/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetControl.o",
+    "llvm-bc" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetControl.bc",
+    "object" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/MediaTimeWidgetControl.o"
+  },
+  "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTimeWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

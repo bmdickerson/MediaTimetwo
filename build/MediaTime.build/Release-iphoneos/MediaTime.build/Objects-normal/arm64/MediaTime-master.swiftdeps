@@ -1,0 +1,17 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "d0392bfa1736c04601f36b6c0e5904465feae6fe4d812159b4a110be3aeae38b"
+build_start_time: [1753815682, 535877000]
+build_end_time: [1753815686, 905434000]
+inputs:
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/CalendarGridView.swift": [1753814861, 505467330]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/ChartView.swift": [1753814641, 929398861]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/ContentView.swift": [1753815669, 928165767]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/DetailedTimeView.swift": [1753814647, 961143140]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/LiveActivityManager.swift": [1753810402, 416698086]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/MediaTimeApp.swift": [1753809434, 78886029]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/QuickStartView.swift": [1753814664, 120235078]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/SessionHistoryView.swift": [1753806932, 530580271]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/SharedMediaTimeAttributes.swift": [1753809831, 383608425]
+  "/Users/bricedickerson/XCode/MediaTime/MediaTime/TimeSession.swift": [1753814791, 441625296]
+  ? "/Users/bricedickerson/XCode/MediaTime/build/MediaTime.build/Release-iphoneos/MediaTime.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1753815244, 655143399]

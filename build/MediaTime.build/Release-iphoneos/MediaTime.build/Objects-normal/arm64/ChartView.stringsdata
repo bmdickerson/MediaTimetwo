@@ -1,0 +1,48 @@
+{
+  "source": "/Users/bricedickerson/XCode/MediaTime/MediaTime/ChartView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Time Distribution",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "No data to display",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to view detailed analysis",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 88
+        }
+      }
+    ]
+  },
+  "version": 1
+}

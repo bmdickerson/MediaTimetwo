@@ -1,0 +1,40 @@
+{
+  "source": "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeWidgetControl.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "MediaTime Control",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Control your media sessions",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "MediaTime",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Control Sessions",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}

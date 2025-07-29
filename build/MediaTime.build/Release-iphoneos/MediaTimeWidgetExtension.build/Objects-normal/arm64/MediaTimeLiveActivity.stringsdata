@@ -1,0 +1,16 @@
+{
+  "source": "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeLiveActivity.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tap to stop",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 85
+        }
+      }
+    ]
+  },
+  "version": 1
+}

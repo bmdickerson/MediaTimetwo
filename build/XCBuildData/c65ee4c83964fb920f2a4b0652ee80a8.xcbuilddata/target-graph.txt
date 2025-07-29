@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'MediaTime' in project 'MediaTime'
+➜ Explicit dependency on target 'MediaTimeWidgetExtension' in project 'MediaTime'
+Target 'MediaTimeWidgetExtension' in project 'MediaTime' (no dependencies)

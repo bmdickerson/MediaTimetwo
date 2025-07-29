@@ -1,0 +1,24 @@
+{
+  "source": "/Users/bricedickerson/XCode/MediaTime/MediaTime/QuickStartView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Quick Start",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 102
+        }
+      }
+    ]
+  },
+  "version": 1
+}

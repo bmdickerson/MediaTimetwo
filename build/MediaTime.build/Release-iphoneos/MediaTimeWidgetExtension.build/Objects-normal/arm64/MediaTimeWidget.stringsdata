@@ -1,0 +1,40 @@
+{
+  "source": "/Users/bricedickerson/XCode/MediaTime/MediaTimeWidget/MediaTimeWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "MediaTime",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "MediaTime",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Track your media consumption and creation time",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite Emoji",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,192 @@
+{
+  "source": "/Users/bricedickerson/XCode/MediaTime/MediaTime/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Today's Usage",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldm",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldh",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "%.1fh",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "12a",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "%llda",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "12p",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldp",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Summary",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Start",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 282
+        }
+      },
+      {
+        "comment": "",
+        "key": "Custom Session",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 295
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Sessions",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "No completed sessions yet",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 312
+        }
+      },
+      {
+        "comment": "",
+        "key": "Running for %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 456
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 467
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start New Session",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 639
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activity Type",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 644
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activity Type",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 647
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description (Optional)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 660
+        }
+      },
+      {
+        "comment": "",
+        "key": "What are you working on?",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 663
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 673
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 679
+        }
+      }
+    ]
+  },
+  "version": 1
+}
