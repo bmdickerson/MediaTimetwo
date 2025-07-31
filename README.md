@@ -4,19 +4,19 @@ A SwiftUI app that helps you track and balance your time between consuming media
 
 ## Features
 
-### 🎯 Core Functionality
+###  Core Functionality
 - **Time Tracking**: Track time spent consuming media vs. creating content
 - **Real-time Monitoring**: See active sessions with live timers
 - **Visual Analytics**: Pie chart showing time distribution
 - **Session History**: Detailed view of all completed sessions with filtering options
 
-### 📊 Dashboard
+###  Dashboard
 - **Today's Summary**: Quick overview of consuming vs. creating time
 - **Active Sessions**: View and stop currently running sessions
 - **Visual Chart**: Pie chart showing time distribution
 - **Recent Sessions**: Quick access to recent activity
 
-### ⚡ Quick Start
+###  Quick Start
 - **Predefined Activities**: Quick start buttons for common activities like:
   - Watching TV
   - Social Media
@@ -27,12 +27,12 @@ A SwiftUI app that helps you track and balance your time between consuming media
   - Learning
   - Music/Podcasts
 
-### 📈 Session History
+###  Session History
 - **Filtering Options**: Filter by activity type and date range
 - **Detailed View**: See start/end times, duration, and descriptions
 - **Summary Statistics**: Total time breakdown for filtered periods
 
-### 🎨 User Interface
+###  User Interface
 - **Modern Design**: Clean, intuitive SwiftUI interface
 - **Color Coding**: Red for consuming, green for creating
 - **SF Symbols**: Consistent iconography throughout
